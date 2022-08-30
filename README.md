@@ -9,7 +9,7 @@ Dr. Emma Allen-Vercoe (The Allen-Vercoe lab)
 
 Dr. Andrew M. Kropinski
 
-### Raw data: Illumina MiSeq paired-end FASTQ short reads files of whole genome sequence of novel Phocaeicola dorei isolate retrived from the fecal sample of a Yanomami villager
+#### Raw data: Illumina MiSeq paired-end FASTQ short reads files of whole genome sequence of novel Phocaeicola dorei isolate retrived from the fecal sample of a Yanomami villager
 
 ## Bacterial Comparative Genomics Analytic Workflow
 

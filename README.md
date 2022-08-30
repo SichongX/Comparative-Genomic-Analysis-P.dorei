@@ -1,6 +1,4 @@
-# Comparative Genomic Analysis of P.dorei strains
-
-## Comparative Genomic Analysis of Phocaeicola dorei-like Strains Isolated from Either Pre-industrial or Industrial Populations
+# Comparative Genomic Analysis of Phocaeicola dorei-like Strains Isolated from Either Pre-industrial or Industrial Populations
 
 2022 BINF6999 Bioinformatics Master’s Project, University of Guelph
 
@@ -11,7 +9,7 @@ Dr. Emma Allen-Vercoe (The Allen-Vercoe lab)
 
 Dr. Andrew M. Kropinski
 
-### Bacterial Comparative Genomics Analytic Workflow
+## Bacterial Comparative Genomics Analytic Workflow
 
 This analytic workflow consists of three major parts:
 1) Draft genome assembly of novel isolate

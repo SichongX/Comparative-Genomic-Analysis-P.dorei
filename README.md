@@ -1,7 +1,7 @@
-# Comparative Genomic Analysis of Phocaeicola dorei-like Strains Isolated from Either Pre-industrial or Industrial Populations
+# Bacterial Comparative Genomics Analytic Workflow
 
+## Comparative Genomic Analysis of Phocaeicola dorei-like Strains Isolated from Either Pre-industrial or Industrial Populations
 2022 BINF6999 Bioinformatics Master’s Project, University of Guelph
-
 
 Advisors:
 
@@ -11,7 +11,6 @@ Dr. Andrew M. Kropinski
 
 #### Raw data: Illumina MiSeq paired-end FASTQ short reads files of whole genome sequence of novel Phocaeicola dorei isolate retrived from the fecal sample of a Yanomami villager
 
-## Bacterial Comparative Genomics Analytic Workflow
 
 This analytic workflow consists of three major parts:
 1) Draft genome assembly of novel isolate

@@ -17,3 +17,5 @@ This analytic workflow consists of three major parts:
 1) Draft genome assembly of novel isolate
 2) Genome annotation (structure, function, specialty gene)
 3) Genomic and proteomic comparison between genomes of novel isolate and reference
+
+<img width="901" alt="image" src="https://github.com/SichongX/Comparative-Genomic-Analysis-P.dorei/assets/91145767/42aca755-4bfa-4f9a-8aa6-bea018645b1a">
